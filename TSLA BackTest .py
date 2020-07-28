@@ -50,5 +50,3 @@ print("Results from TSLA BackTest:")
 print("Starting Wealth: $100,000")
 print("Ending Wealth: $" + str(newWealth))
 print("Percent Gain: " + str(pctGain) + "%")
-
-print(type(wealth))
